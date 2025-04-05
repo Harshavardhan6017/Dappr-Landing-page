@@ -10,7 +10,7 @@ A simple, responsive landing page built as part of my MERN stack development jou
 
 ## Screenshots
 
-![Landing Page Screenshot](path-to-screenshot)
+![Landing Page Screenshot](https://github.com/Harshavardhan6017/Dappr-Landing-page/blob/main/Screenshot%20(253).png)
 
 ## Technologies Used
 
